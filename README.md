@@ -8,7 +8,7 @@ WaveSynch is a gesture-control system that lets you control your computer's medi
 
 
 
-##### HOW DOES IT WORK?
+### HOW DOES IT WORK?
 
 The system divides the distance in front of the sensors into two active zones:
 
@@ -50,7 +50,7 @@ The sound wave travels forward at roughly 343 meters per second until it hits an
 
 
 
-##### Hardware Needed
+### Hardware Needed
 
 1 x Arduino (Uno, Nano, or Mega)
 
@@ -60,7 +60,7 @@ A breadboard and jumper wires
 
 
 
-##### Setup Instructions
+### Setup Instructions
 
 
 
@@ -96,7 +96,7 @@ Make sure your Arduino is plugged in via USB, check what COM port it is using, a
 
 
 
-##### Code Logic \& Features
+### Code Logic \& Features
 
 To stop the sensors from acting glitchy or triggering random keys, the Arduino code handles a few important things:
 
